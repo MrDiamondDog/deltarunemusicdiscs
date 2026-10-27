@@ -2,6 +2,8 @@
 
 A Neoforge mod for Minecraft 1.21.1 that adds 127 music discs from DELTARUNE! All the discs can be found under special rare trees found in forests.
 
+<img width="2560" height="1440" alt="2026-10-27_15 45 58" src="https://github.com/user-attachments/assets/7bd2e688-ce26-4a65-a7b6-6a495fb59822" />
+
 All rights reserved to Toby Fox for DELTARUNE, as well as Materia Collective for music.
 No music files are hosted on this repository, but there is a helper script to get the music from your DELTARUNE installation.
 

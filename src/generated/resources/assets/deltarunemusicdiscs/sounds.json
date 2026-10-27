@@ -1,0 +1,1018 @@
+{
+  "disc_12am": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_12am",
+        "stream": true
+      }
+    ]
+  },
+  "disc_13am": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_13am",
+        "stream": true
+      }
+    ]
+  },
+  "disc_4rd_sanctuary": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_4rd_sanctuary",
+        "stream": true
+      }
+    ]
+  },
+  "disc_a_cybers_world": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_a_cybers_world",
+        "stream": true
+      }
+    ]
+  },
+  "disc_a_dark_zone": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_a_dark_zone",
+        "stream": true
+      }
+    ]
+  },
+  "disc_a_town_called_hometown": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_a_town_called_hometown",
+        "stream": true
+      }
+    ]
+  },
+  "disc_acid_tunnel_of_love": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_acid_tunnel_of_love",
+        "stream": true
+      }
+    ]
+  },
+  "disc_adventure_board": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_adventure_board",
+        "stream": true
+      }
+    ]
+  },
+  "disc_air_waves": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_air_waves",
+        "stream": true
+      }
+    ]
+  },
+  "disc_and_now_for_todays_sponsors": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_and_now_for_todays_sponsors",
+        "stream": true
+      }
+    ]
+  },
+  "disc_another_day_in_hometown": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_another_day_in_hometown",
+        "stream": true
+      }
+    ]
+  },
+  "disc_atrium": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_atrium",
+        "stream": true
+      }
+    ]
+  },
+  "disc_attack_of_the_killer_queen": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_attack_of_the_killer_queen",
+        "stream": true
+      }
+    ]
+  },
+  "disc_beginning": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_beginning",
+        "stream": true
+      }
+    ]
+  },
+  "disc_berdly": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_berdly",
+        "stream": true
+      }
+    ]
+  },
+  "disc_big_shot": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_big_shot",
+        "stream": true
+      }
+    ]
+  },
+  "disc_black_knife": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_black_knife",
+        "stream": true
+      }
+    ]
+  },
+  "disc_burning_eyes": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_burning_eyes",
+        "stream": true
+      }
+    ]
+  },
+  "disc_card_castle": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_card_castle",
+        "stream": true
+      }
+    ]
+  },
+  "disc_castle_funk": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_castle_funk",
+        "stream": true
+      }
+    ]
+  },
+  "disc_catswing": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_catswing",
+        "stream": true
+      }
+    ]
+  },
+  "disc_chaos_king": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_chaos_king",
+        "stream": true
+      }
+    ]
+  },
+  "disc_checker_dance": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_checker_dance",
+        "stream": true
+      }
+    ]
+  },
+  "disc_crumbling_tower": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_crumbling_tower",
+        "stream": true
+      }
+    ]
+  },
+  "disc_cutie_mew_mew_magic": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_cutie_mew_mew_magic",
+        "stream": true
+      }
+    ]
+  },
+  "disc_dark_place": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_dark_place",
+        "stream": true
+      }
+    ]
+  },
+  "disc_dark_sanctuary": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_dark_sanctuary",
+        "stream": true
+      }
+    ]
+  },
+  "disc_dialtone": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_dialtone",
+        "stream": true
+      }
+    ]
+  },
+  "disc_dont_forget": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_dont_forget",
+        "stream": true
+      }
+    ]
+  },
+  "disc_dreamwatchers": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_dreamwatchers",
+        "stream": true
+      }
+    ]
+  },
+  "disc_egg": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_egg",
+        "stream": true
+      }
+    ]
+  },
+  "disc_empty_town": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_empty_town",
+        "stream": true
+      }
+    ]
+  },
+  "disc_faint_glow": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_faint_glow",
+        "stream": true
+      }
+    ]
+  },
+  "disc_fanfare": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_fanfare",
+        "stream": true
+      }
+    ]
+  },
+  "disc_feature_presentation": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_feature_presentation",
+        "stream": true
+      }
+    ]
+  },
+  "disc_festival": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_festival",
+        "stream": true
+      }
+    ]
+  },
+  "disc_field_of_hopes_and_dreams": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_field_of_hopes_and_dreams",
+        "stream": true
+      }
+    ]
+  },
+  "disc_field_of_hopes_and_dreams_from_deltarune_piano_collections_vol_1_credits_version": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_field_of_hopes_and_dreams_from_deltarune_piano_collections_vol_1_credits_version",
+        "stream": true
+      }
+    ]
+  },
+  "disc_fireplace": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_fireplace",
+        "stream": true
+      }
+    ]
+  },
+  "disc_flashback_excerpt": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_flashback_excerpt",
+        "stream": true
+      }
+    ]
+  },
+  "disc_flower_castle": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_flower_castle",
+        "stream": true
+      }
+    ]
+  },
+  "disc_flower_foyer": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_flower_foyer",
+        "stream": true
+      }
+    ]
+  },
+  "disc_flower_man": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_flower_man",
+        "stream": true
+      }
+    ]
+  },
+  "disc_from_now_on": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_from_now_on",
+        "stream": true
+      }
+    ]
+  },
+  "disc_garden_of_hopes_and_dreams": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_garden_of_hopes_and_dreams",
+        "stream": true
+      }
+    ]
+  },
+  "disc_gingerbreak_house": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_gingerbreak_house",
+        "stream": true
+      }
+    ]
+  },
+  "disc_girl_next_door": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_girl_next_door",
+        "stream": true
+      }
+    ]
+  },
+  "disc_glaceir": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_glaceir",
+        "stream": true
+      }
+    ]
+  },
+  "disc_glowing_snow": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_glowing_snow",
+        "stream": true
+      }
+    ]
+  },
+  "disc_guardian": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_guardian",
+        "stream": true
+      }
+    ]
+  },
+  "disc_gyaa_ha_ha": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_gyaa_ha_ha",
+        "stream": true
+      }
+    ]
+  },
+  "disc_hall_of_fame": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_hall_of_fame",
+        "stream": true
+      }
+    ]
+  },
+  "disc_hammer_of_justice": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_hammer_of_justice",
+        "stream": true
+      }
+    ]
+  },
+  "disc_hip_shop": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_hip_shop",
+        "stream": true
+      }
+    ]
+  },
+  "disc_i_guess_im_in_love": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_i_guess_im_in_love",
+        "stream": true
+      }
+    ]
+  },
+  "disc_inappropriate_recycling": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_inappropriate_recycling",
+        "stream": true
+      }
+    ]
+  },
+  "disc_its_pronounced_rules": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_its_pronounced_rules",
+        "stream": true
+      }
+    ]
+  },
+  "disc_its_tv_time": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_its_tv_time",
+        "stream": true
+      }
+    ]
+  },
+  "disc_knock_you_down": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_knock_you_down",
+        "stream": true
+      }
+    ]
+  },
+  "disc_lancer": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_lancer",
+        "stream": true
+      }
+    ]
+  },
+  "disc_lantern": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_lantern",
+        "stream": true
+      }
+    ]
+  },
+  "disc_lost_girl": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_lost_girl",
+        "stream": true
+      }
+    ]
+  },
+  "disc_mike_the_board_please": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_mike_the_board_please",
+        "stream": true
+      }
+    ]
+  },
+  "disc_my_castle_town": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_my_castle_town",
+        "stream": true
+      }
+    ]
+  },
+  "disc_need_a_hand": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_need_a_hand",
+        "stream": true
+      }
+    ]
+  },
+  "disc_neverending_night": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_neverending_night",
+        "stream": true
+      }
+    ]
+  },
+  "disc_nows_your_chance_to_be_a": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_nows_your_chance_to_be_a",
+        "stream": true
+      }
+    ]
+  },
+  "disc_old_wooden_rafters": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_old_wooden_rafters",
+        "stream": true
+      }
+    ]
+  },
+  "disc_pandora_palace": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_pandora_palace",
+        "stream": true
+      }
+    ]
+  },
+  "disc_paradise_paradise": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_paradise_paradise",
+        "stream": true
+      }
+    ]
+  },
+  "disc_petal_dance": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_petal_dance",
+        "stream": true
+      }
+    ]
+  },
+  "disc_physical_challenge": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_physical_challenge",
+        "stream": true
+      }
+    ]
+  },
+  "disc_piano_that_may_not_be_played_that_well": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_piano_that_may_not_be_played_that_well",
+        "stream": true
+      }
+    ]
+  },
+  "disc_pink": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_pink",
+        "stream": true
+      }
+    ]
+  },
+  "disc_pirate_dojo": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_pirate_dojo",
+        "stream": true
+      }
+    ]
+  },
+  "disc_queen": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_queen",
+        "stream": true
+      }
+    ]
+  },
+  "disc_quiet_autumn": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_quiet_autumn",
+        "stream": true
+      }
+    ]
+  },
+  "disc_quiet_glade": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_quiet_glade",
+        "stream": true
+      }
+    ]
+  },
+  "disc_quiz": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_quiz",
+        "stream": true
+      }
+    ]
+  },
+  "disc_raise_up_your_bat": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_raise_up_your_bat",
+        "stream": true
+      }
+    ]
+  },
+  "disc_rakuichi_buster": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_rakuichi_buster",
+        "stream": true
+      }
+    ]
+  },
+  "disc_ripple": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_ripple",
+        "stream": true
+      }
+    ]
+  },
+  "disc_rouxls_kaard": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_rouxls_kaard",
+        "stream": true
+      }
+    ]
+  },
+  "disc_rude_buster": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_rude_buster",
+        "stream": true
+      }
+    ]
+  },
+  "disc_ruder_buster": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_ruder_buster",
+        "stream": true
+      }
+    ]
+  },
+  "disc_running_sky": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_running_sky",
+        "stream": true
+      }
+    ]
+  },
+  "disc_sandy_board": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_sandy_board",
+        "stream": true
+      }
+    ]
+  },
+  "disc_sans": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_sans",
+        "stream": true
+      }
+    ]
+  },
+  "disc_scarlet_forest": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_scarlet_forest",
+        "stream": true
+      }
+    ]
+  },
+  "disc_school": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_school",
+        "stream": true
+      }
+    ]
+  },
+  "disc_shop_3": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_shop_3",
+        "stream": true
+      }
+    ]
+  },
+  "disc_smart_race": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_smart_race",
+        "stream": true
+      }
+    ]
+  },
+  "disc_sound_check": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_sound_check",
+        "stream": true
+      }
+    ]
+  },
+  "disc_spamton": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_spamton",
+        "stream": true
+      }
+    ]
+  },
+  "disc_spawn": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_spawn",
+        "stream": true
+      }
+    ]
+  },
+  "disc_sunset_of_7_suns": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_sunset_of_7_suns",
+        "stream": true
+      }
+    ]
+  },
+  "disc_sunset_of_seven_suns": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_sunset_of_seven_suns",
+        "stream": true
+      }
+    ]
+  },
+  "disc_sword": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_sword",
+        "stream": true
+      }
+    ]
+  },
+  "disc_that_day": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_that_day",
+        "stream": true
+      }
+    ]
+  },
+  "disc_the_circus": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_the_circus",
+        "stream": true
+      }
+    ]
+  },
+  "disc_the_dark_truth": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_the_dark_truth",
+        "stream": true
+      }
+    ]
+  },
+  "disc_the_diner_song_of_best_friends": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_the_diner_song_of_best_friends",
+        "stream": true
+      }
+    ]
+  },
+  "disc_the_distance_between_two": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_the_distance_between_two",
+        "stream": true
+      }
+    ]
+  },
+  "disc_the_holy": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_the_holy",
+        "stream": true
+      }
+    ]
+  },
+  "disc_the_legend": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_the_legend",
+        "stream": true
+      }
+    ]
+  },
+  "disc_the_ol_jitterbug": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_the_ol_jitterbug",
+        "stream": true
+      }
+    ]
+  },
+  "disc_the_place_where_it_rained": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_the_place_where_it_rained",
+        "stream": true
+      }
+    ]
+  },
+  "disc_the_second_sanctuary": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_the_second_sanctuary",
+        "stream": true
+      }
+    ]
+  },
+  "disc_the_third_sanctuary": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_the_third_sanctuary",
+        "stream": true
+      }
+    ]
+  },
+  "disc_the_world_revolving": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_the_world_revolving",
+        "stream": true
+      }
+    ]
+  },
+  "disc_thousand_cafe_zukan": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_thousand_cafe_zukan",
+        "stream": true
+      }
+    ]
+  },
+  "disc_thrash_machine": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_thrash_machine",
+        "stream": true
+      }
+    ]
+  },
+  "disc_tv_world": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_tv_world",
+        "stream": true
+      }
+    ]
+  },
+  "disc_until_next_time": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_until_next_time",
+        "stream": true
+      }
+    ]
+  },
+  "disc_violet_tactics": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_violet_tactics",
+        "stream": true
+      }
+    ]
+  },
+  "disc_vs_lancer": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_vs_lancer",
+        "stream": true
+      }
+    ]
+  },
+  "disc_vs_susie": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_vs_susie",
+        "stream": true
+      }
+    ]
+  },
+  "disc_walking_home": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_walking_home",
+        "stream": true
+      }
+    ]
+  },
+  "disc_weak_flowers": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_weak_flowers",
+        "stream": true
+      }
+    ]
+  },
+  "disc_welcome_to_the_city": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_welcome_to_the_city",
+        "stream": true
+      }
+    ]
+  },
+  "disc_welcome_to_the_green_room": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_welcome_to_the_green_room",
+        "stream": true
+      }
+    ]
+  },
+  "disc_who_might_you_be": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_who_might_you_be",
+        "stream": true
+      }
+    ]
+  },
+  "disc_wise_words": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_wise_words",
+        "stream": true
+      }
+    ]
+  },
+  "disc_with_hope_crossed_on_our_hearts": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_with_hope_crossed_on_our_hearts",
+        "stream": true
+      }
+    ]
+  },
+  "disc_you_can_always_come_home": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_you_can_always_come_home",
+        "stream": true
+      }
+    ]
+  },
+  "disc_your_dads_best_friend": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_your_dads_best_friend",
+        "stream": true
+      }
+    ]
+  },
+  "disc_your_power": {
+    "sounds": [
+      {
+        "name": "deltarunemusicdiscs:records/disc_your_power",
+        "stream": true
+      }
+    ]
+  }
+}

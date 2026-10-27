@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "deltarunemusicdiscs:block/prophecy_log_top",
+    "side": "deltarunemusicdiscs:block/prophecy_log"
+  }
+}

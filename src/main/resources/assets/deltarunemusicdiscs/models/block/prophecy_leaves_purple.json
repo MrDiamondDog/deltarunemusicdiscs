@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "deltarunemusicdiscs:block/prophecy_leaves_purple"
+  }
+}

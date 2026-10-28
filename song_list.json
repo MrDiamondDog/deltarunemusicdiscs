@@ -1,133 +1,513 @@
-{
-  "disc_beginning": "mus_introcar",
-  "disc_school": "mus_school",
-  "disc_the_legend": "legend",
-  "disc_lancer": "lancer",
-  "disc_rude_buster": "battle",
-  "disc_empty_town": "castletown_empty",
-  "disc_field_of_hopes_and_dreams": "field_of_hopes",
-  "disc_fanfare": "fanfare",
-  "disc_lantern": "shop1",
-  "disc_checker_dance": "checkers",
-  "disc_quiet_autumn": "quiet_autumn",
-  "disc_scarlet_forest": "forest",
-  "disc_thrash_machine": "thrashmachine",
-  "disc_vs_lancer": "lancerfight",
-  "disc_vs_susie": "vs_susie",
-  "disc_card_castle": "card_castle",
-  "disc_rouxls_kaard": "ruruskaado",
-  "disc_hip_shop": "hip_shop",
-  "disc_chaos_king": "kingboss",
-  "disc_the_circus": "prejoker",
-  "disc_the_world_revolving": "joker",
-  "disc_the_holy": "THE_HOLY",
-  "disc_your_power": "../chapter1_windows/snd_usefountain",
-  "disc_a_town_called_hometown": "town",
-  "disc_you_can_always_come_home": "home",
-  "disc_dont_forget": "dontforget",
-  "disc_faint_glow": "menu",
+  {
+  "disc_beginning": {
+    "filename": "mus_introcar",
+    "length": "0:57"
+  },
+  "disc_school": {
+    "filename": "mus_school",
+    "length": "1:20"
+  },
+  "disc_the_legend": {
+    "filename": "legend",
+    "length": "1:51"
+  },
+  "disc_lancer": {
+    "filename": "lancer",
+    "length": "0:48"
+  },
+  "disc_rude_buster": {
+    "filename": "battle",
+    "length": "1:15"
+  },
+  "disc_empty_town": {
+    "filename": "castletown_empty",
+    "length": "1:23"
+  },
+  "disc_field_of_hopes_and_dreams": {
+    "filename": "field_of_hopes",
+    "length": "2:41"
+  },
+  "disc_fanfare": {
+    "filename": "fanfare",
+    "length": "0:10"
+  },
+  "disc_lantern": {
+    "filename": "shop1",
+    "length": "1:08"
+  },
+  "disc_checker_dance": {
+    "filename": "checkers",
+    "length": "1:18"
+  },
+  "disc_quiet_autumn": {
+    "filename": "quiet_autumn",
+    "length": "0:49"
+  },
+  "disc_scarlet_forest": {
+    "filename": "forest",
+    "length": "2:08"
+  },
+  "disc_thrash_machine": {
+    "filename": "thrashmachine",
+    "length": "0:54"
+  },
+  "disc_vs_lancer": {
+    "filename": "lancerfight",
+    "length": "0:42"
+  },
+    "disc_vs_susie": {
+      "filename": "vs_susie",
+      "length": "1:21"
+  },
+    "disc_card_castle": {
+    "filename": "card_castle",
+    "length": "1:01"
+  },
+    "disc_rouxls_kaard": {
+    "filename": "ruruskaado",
+    "length": "0:19"
+  },
+    "disc_hip_shop": {
+    "filename": "hip_shop",
+    "length": "0:39"
+  },
+    "disc_chaos_king": {
+    "filename": "kingboss",
+    "length": "1:46"
+  },
+    "disc_the_circus": {
+    "filename": "prejoker",
+    "length": "0:51"
+  },
+    "disc_the_world_revolving": {
+    "filename": "joker",
+    "length": "1:41"
+  },
+    "disc_the_holy": {
+    "filename": "THE_HOLY",
+    "length": "0:48"
+  },
+  "disc_your_power": {
+    "filename": "../chapter1_windows/snd_usefountain",
+    "length": "0:13"
+  },
+    "disc_a_town_called_hometown": {
+    "filename": "town",
+    "length": "1:53"
+  },
+    "disc_you_can_always_come_home": {
+    "filename": "home",
+    "length": "1:40"
+  },
+    "disc_dont_forget": {
+    "filename": "dontforget",
+    "length": "0:51"
+  },
+  "disc_faint_glow": {
+    "filename": "menu",
+    "length": "1:17"
+  },
+  "disc_girl_next_door": {
+    "filename": "noelle_school",
+    "length": "0:54"
+  },
+  "disc_my_castle_town": {
+    "filename": "castletown",
+    "length": "2:07"
+  },
+  "disc_queen": {
+    "filename": "queen",
+    "length": "0:56"
+  },
+  "disc_a_cybers_world": {
+    "filename": "cyber",
+    "length": "2:46"
+  },
+  "disc_berdly": {
+    "filename": "berdly_theme",
+    "length": "0:46"
+  },
+  "disc_smart_race": {
+    "filename": "berdly_chase",
+    "length": "1:06"
+  },
+  "disc_welcome_to_the_city": {
+    "filename": "cybercity",
+    "length": "1:54"
+  },
+  "disc_spamton": {
+    "filename": "spamton_meeting",
+    "length": "0:42"
+  },
+  "disc_nows_your_chance_to_be_a": {
+    "filename": "spamton_battle",
+    "length": "1:07"
+  },
+  "disc_pandora_palace": {
+    "filename": "mansion",
+    "length": "1:39"
+  },
+  "disc_acid_tunnel_of_love": {
+    "filename": "acid_tunnel",
+    "length": "1:30"
+  },
+  "disc_its_pronounced_rules": {
+    "filename": "rouxls_battle",
+    "length": "1:01"
+  },
+  "disc_lost_girl": {
+    "filename": "noelle_normal",
+    "length": "1:20"
+  },
+  "disc_attack_of_the_killer_queen": {
+    "filename": "queen_boss",
+    "length": "2:00"
+  },
+  "disc_knock_you_down": {
+    "filename": "boxing_boss",
+    "length": "2:26"
+  },
+  "disc_the_dark_truth": {
+    "filename": "the_dark_truth",
+    "length": "1:07"
+  },
+  "disc_big_shot": {
+    "filename": "spamton_neo_mix_ex_wip",
+    "length": "2:22"
+  },
+  "disc_dialtone": {
+    "filename": "spamton_neo_after",
+    "length": "0:44"
+  },
+  "disc_sans": {
+    "filename": "muscle",
+    "length": "0:22"
+  },
+  "disc_until_next_time": {
+    "filename": "ch2_credits",
+    "length": "1:02"
+  },
 
-  "disc_girl_next_door": "noelle_school",
-  "disc_my_castle_town": "castletown",
-  "disc_queen": "queen",
-  "disc_a_cybers_world": "cyber",
-  "disc_berdly": "berdly_theme",
-  "disc_smart_race": "berdly_chase",
-  "disc_welcome_to_the_city": "cybercity",
-  "disc_spamton": "spamton_meeting",
-  "disc_nows_your_chance_to_be_a": "spamton_battle",
-  "disc_pandora_palace": "mansion",
-  "disc_acid_tunnel_of_love": "acid_tunnel",
-  "disc_its_pronounced_rules": "rouxls_battle",
-  "disc_lost_girl": "noelle_normal",
-  "disc_attack_of_the_killer_queen": "queen_boss",
-  "disc_knock_you_down": "boxing_boss",
-  "disc_the_dark_truth": "the_dark_truth",
-  "disc_big_shot": "spamton_neo_mix_ex_wip",
-  "disc_dialtone": "spamton_neo_after",
-  "disc_sans": "muscle",
-  "disc_until_next_time": "ch2_credits",
+  "disc_flashback_excerpt": {
+    "filename": "flashback_excerpt",
+    "length": "0:32"
+  },
+  "disc_feature_presentation": {
+    "filename": "../chapter3_windows/vid/tennaintroF1_compressed_28.mp4",
+    "length": "0:42"
+  },
+  "disc_and_now_for_todays_sponsors": {
+    "filename": "baci_perugina",
+    "length": "0:31"
+  },
+  "disc_mike_the_board_please": {
+    "filename": "ch3_tvtime",
+    "length": "0:32"
+  },
+  "disc_sandy_board": {
+    "filename": "ch3_board1",
+    "length": "1:18"
+  },
+  "disc_adventure_board": {
+    "filename": "board_zelda",
+    "length": "0:59"
+  },
+  "disc_quiz": {
+    "filename": "TV_GAME",
+    "length": "1:16"
+  },
+  "disc_ruder_buster": {
+    "filename": "rudebuster_boss",
+    "length": "1:46"
+  },
+  "disc_physical_challenge": {
+    "filename": "minigame_kart",
+    "length": "1:47"
+  },
+  "disc_welcome_to_the_green_room": {
+    "filename": null,
+    "length": "0:45"
+  },
+  "disc_paradise_paradise": {
+    "filename": "tenna_island",
+    "length": "2:30"
+  },
+  "disc_sound_check": {
+    "filename": "ch3-practice_song_combined",
+    "length": "0:25"
+  },
+  "disc_raise_up_your_bat": {
+    "filename": null,
+    "length": "2:13"
+  },
+  "disc_glowing_snow": {
+    "filename": "tv_results_screen",
+    "length": "0:53"
+  },
+  "disc_tv_world": {
+    "filename": "tv_world",
+    "length": "2:09"
+  },
+  "disc_its_tv_time": {
+    "filename": "tenna_battle",
+    "length": "2:45"
+  },
+  "disc_hall_of_fame": {
+    "filename": "tv_hall_of_fame",
+    "length": "0:30"
+  },
+  "disc_black_knife": {
+    "filename": "knight",
+    "length": "1:57"
+  },
+  "disc_sword": {
+    "filename": "board_sword_music",
+    "length": "2:12"
+  },
+  "disc_glaceir": {
+    "filename": "glacier",
+    "length": "1:07"
+  },
+  "disc_burning_eyes": {
+    "filename": "nightmare_boss_heavy",
+    "length": "1:05"
+  },
 
-  "disc_flashback_excerpt": "flashback_excerpt",
-  "disc_feature_presentation": "../chapter3_windows/vid/tennaintroF1_compressed_28.mp4",
-  "disc_and_now_for_todays_sponsors": "baci_perugina",
-  "disc_mike_the_board_please": "ch3_tvtime",
-  "disc_sandy_board": "ch3_board1",
-  "disc_adventure_board": "board_zelda",
-  "disc_quiz": "TV_GAME",
-  "disc_ruder_buster": "rudebuster_boss",
-  "disc_physical_challenge": "minigame_kart",
-  "disc_welcome_to_the_green_room": "greenroom_detune",
-  "disc_paradise_paradise": "tenna_island",
-  "disc_sound_check": "ch3-practice_song_combined",
-  "disc_raise_up_your_bat": "ch3_karaoke_full",
-  "disc_glowing_snow": "tv_results_screen",
-  "disc_tv_world": "tv_world",
-  "disc_its_tv_time": "tenna_battle",
-  "disc_hall_of_fame": "tv_hall_of_fame",
-  "disc_black_knife": "knight",
-  "disc_sword": "board_sword_music",
-  "disc_glaceir": "glacier",
-  "disc_burning_eyes": "nightmare_boss_heavy",
+  "disc_old_wooden_rafters": {
+    "filename": "church_lw",
+    "length": "1:38"
+  },
+  "disc_another_day_in_hometown": {
+    "filename": "town_day",
+    "length": "2:19"
+  },
+  "disc_castle_funk": {
+    "filename": "castle_funk_long",
+    "length": "2:56"
+  },
+  "disc_gingerbreak_house": {
+    "filename": "noelle_house_wip",
+    "length": "1:27"
+  },
+  "disc_the_distance_between_two": {
+    "filename": "noelle_distant",
+    "length": "0:42"
+  },
+  "disc_atrium": {
+    "filename": "darkchurch_intro",
+    "length": "1:00"
+  },
+  "disc_dark_sanctuary": {
+    "filename": "church_wip",
+    "length": "1:46"
+  },
+  "disc_from_now_on": {
+    "filename": "ch4_battle",
+    "length": "1:48"
+  },
+  "disc_gyaa_ha_ha": {
+    "filename": "gerson_theme_intro",
+    "length": "1:15"
+  },
+  "disc_fireplace": {
+    "filename": "church_dark_study",
+    "length": "2:37"
+  },
+  "disc_a_dark_zone": {
+    "filename": "pumpkin_boss",
+    "length": "2:18"
+  },
+  "disc_wise_words": {
+    "filename": "gerson_defeated",
+    "length": "0:42"
+  },
+  "disc_piano_that_may_not_be_played_that_well": {
+    "filename": "kris_piano_lower",
+    "length": "0:42"
+  },
+  "disc_hammer_of_justice": {
+    "filename": "ch4_extra_boss",
+    "length": "2:13"
+  },
+  "disc_12am": {
+    "filename": "church_lw_night",
+    "length": "0:17"
+  },
+  "disc_the_second_sanctuary": {
+    "filename": "second_church",
+    "length": "2:46"
+  },
+  "disc_ripple": {
+    "filename": null,
+    "length": "2:31"
+  },
+  "disc_13am": {
+    "filename": "tin_night",
+    "length": "1:26"
+  },
+  "disc_the_third_sanctuary": {
+    "filename": "church_zone3",
+    "length": "4:07"
+  },
+  "disc_dark_place": {
+    "filename": "dark_place",
+    "length": "0:58"
+  },
+  "disc_crumbling_tower": {
+    "filename": "titan_tower",
+    "length": "2:49"
+  },
+  "disc_spawn": {
+    "filename": "titan_spawn",
+    "length": "1:11"
+  },
+  "disc_guardian": {
+    "filename": "titan_battle",
+    "length": "3:46"
+  },
+  "disc_need_a_hand": {
+    "filename": "oldman_helps_out",
+    "length": "0:46"
+  },
+  "disc_the_place_where_it_rained": {
+    "filename": "rain",
+    "length": "2:52"
+  },
+  "disc_the_ol_jitterbug": {
+    "filename": "jitterbug",
+    "length": "0:22"
+  },
+  "disc_neverending_night": {
+    "filename": "ch4_credits",
+    "length": "1:39"
+  },
+  "disc_with_hope_crossed_on_our_hearts": {
+    "filename": "quiet_church",
+    "length": "1:39"
+  },
+  "disc_catswing": {
+    "filename": "mike",
+    "length": "1:58"
+  },
+  "disc_air_waves": {
+    "filename": "spamton_dance",
+    "length": "2:00"
+  },
 
-  "disc_old_wooden_rafters": "church_lw",
-  "disc_another_day_in_hometown": "town_day",
-  "disc_castle_funk": "castle_funk_long",
-  "disc_gingerbreak_house": "noelle_house_wip",
-  "disc_the_distance_between_two": "noelle_distant",
-  "disc_atrium": "darkchurch_intro",
-  "disc_dark_sanctuary": "church_wip",
-  "disc_from_now_on": "ch4_battle",
-  "disc_gyaa_ha_ha": "gerson_theme_intro",
-  "disc_fireplace": "church_dark_study",
-  "disc_a_dark_zone": "pumpkin_boss",
-  "disc_wise_words": "gerson_defeated",
-  "disc_piano_that_may_not_be_played_that_well": "kris_piano_lower",
-  "disc_hammer_of_justice": "ch4_extra_boss",
-  "disc_12am": "church_lw_night",
-  "disc_the_second_sanctuary": "second_church",
-  "disc_ripple": null,
-  "disc_13am": "tin_night",
-  "disc_the_third_sanctuary": "church_zone3",
-  "disc_dark_place": "dark_place",
-  "disc_crumbling_tower": "titan_tower",
-  "disc_spawn": "titan_spawn",
-  "disc_guardian": "titan_battle",
-  "disc_need_a_hand": "oldman_helps_out",
-  "disc_the_place_where_it_rained": "rain",
-  "disc_the_ol_jitterbug": "jitterbug",
-  "disc_neverending_night": "ch4_credits",
-  "disc_with_hope_crossed_on_our_hearts": "quiet_church",
-  "disc_catswing": "mike",
-  "disc_air_waves": "spamton_dance",
-
-  "disc_inappropriate_recycling": "inappropriate_recycling",
-  "disc_pirate_dojo": "pirate_zone",
-  "disc_4rd_sanctuary": "4rd_sanctuary",
-  "disc_festival": "festival",
-  "disc_i_guess_im_in_love": "festival_after",
-  "disc_your_dads_best_friend": "flowery",
-  "disc_garden_of_hopes_and_dreams": null,
-  "disc_rakuichi_buster": "rakuichi_buster_wip",
-  "disc_the_diner_song_of_best_friends": "flowery_diner_romantic",
-  "disc_quiet_glade": "piano_ambience",
-  "disc_who_might_you_be": "meeting_flower",
-  "disc_petal_dance": "miniboss_new_section_idea_wip",
-  "disc_sunset_of_seven_suns": "cliff",
-  "disc_sunset_of_7_suns": null,
-  "disc_shop_3": "shop_3",
-  "disc_violet_tactics": "castle_loop",
-  "disc_flower_foyer": "castle_foyer",
-  "disc_flower_castle": "flower_castle",
-  "disc_thousand_cafe_zukan": "flower_cafe",
-  "disc_pink": "pink_theme",
-  "disc_cutie_mew_mew_magic": "pink",
-  "disc_running_sky": "castle_top",
-  "disc_flower_man": "Flowerman_Arrangement",
-  "disc_that_day": "asgore_conspiracy",
-  "disc_dreamwatchers": "flowery_iog_extended",
-  "disc_weak_flowers": "flowery_sad",
-  "disc_walking_home": "festival_night",
-  "disc_field_of_hopes_and_dreams_from_deltarune_piano_collections_vol_1_credits_version": "ch5_credits",
-  "disc_egg": "deltarune_piano_collections_by_trevor_alan_gomes"
+  "disc_inappropriate_recycling": {
+    "filename": "inappropriate_recycling",
+    "length": "1:36"
+  },
+  "disc_pirate_dojo": {
+    "filename": "pirate_zone",
+    "length": "0:52"
+  },
+  "disc_4rd_sanctuary": {
+    "filename": "4rd_sanctuary",
+    "length": "1:19"
+  },
+  "disc_festival": {
+    "filename": "festival",
+    "length": "2:00"
+  },
+  "disc_i_guess_im_in_love": {
+    "filename": "festival_after",
+    "length": "2:57"
+  },
+  "disc_your_dads_best_friend": {
+    "filename": "flowery",
+    "length": "0:15"
+  },
+  "disc_garden_of_hopes_and_dreams": {
+    "filename": null,
+    "length": "3:23"
+  },
+  "disc_rakuichi_buster": {
+    "filename": "rakuichi_buster_wip",
+    "length": "1:42"
+  },
+  "disc_the_diner_song_of_best_friends": {
+    "filename": "flowery_diner_romantic",
+    "length": "1:25"
+  },
+  "disc_quiet_glade": {
+    "filename": "piano_ambience",
+    "length": "3:17"
+  },
+  "disc_who_might_you_be": {
+    "filename": "meeting_flower",
+    "length": "0:32"
+  },
+  "disc_petal_dance": {
+    "filename": "miniboss_new_section_idea_wip",
+    "length": "1:32"
+  },
+  "disc_sunset_of_seven_suns": {
+    "filename": "cliff",
+    "length": "1:36"
+  },
+  "disc_sunset_of_7_suns": {
+    "filename": null,
+    "length": "1:10"
+  },
+  "disc_shop_3": {
+    "filename": "shop_3",
+    "length": "1:15"
+  },
+  "disc_violet_tactics": {
+    "filename": "castle_loop",
+    "length": "1:05"
+  },
+  "disc_flower_foyer": {
+    "filename": "castle_foyer",
+    "length": "0:55"
+  },
+  "disc_flower_castle": {
+    "filename": "flower_castle",
+    "length": "4:30"
+  },
+  "disc_thousand_cafe_zukan": {
+    "filename": "flower_cafe",
+    "length": "1:29"
+  },
+  "disc_pink": {
+    "filename": "pink_theme",
+    "length": "1:13"
+  },
+  "disc_cutie_mew_mew_magic": {
+    "filename": "pink",
+    "length": "3:04"
+  },
+  "disc_running_sky": {
+    "filename": "castle_top",
+    "length": "2:22"
+  },
+  "disc_flower_man": {
+    "filename": "Flowerman_Arrangement",
+    "length": "3:12"
+  },
+  "disc_that_day": {
+    "filename": "asgore_conspiracy",
+    "length": "1:30"
+  },
+  "disc_dreamwatchers": {
+    "filename": "flowery_iog_extended",
+    "length": "1:17"
+  },
+  "disc_weak_flowers": {
+    "filename": "flowery_sad",
+    "length": "1:42"
+  },
+  "disc_walking_home": {
+    "filename": "festival_night",
+    "length": "2:16"
+  },
+  "disc_field_of_hopes_and_dreams_from_deltarune_piano_collections_vol_1_credits_version": {
+    "filename": "ch5_credits",
+    "length": "1:39"
+  },
+  "disc_egg": {
+    "filename": "deltarune_piano_collections_by_trevor_alan_gomes",
+    "length": "1:02"
+  }
 }

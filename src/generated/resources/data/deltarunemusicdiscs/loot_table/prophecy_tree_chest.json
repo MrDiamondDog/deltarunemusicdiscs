@@ -1,0 +1,584 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_beginning"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_school"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_the_legend"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_lancer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_rude_buster"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_empty_town"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_field_of_hopes_and_dreams"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_fanfare"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_lantern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_checker_dance"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_quiet_autumn"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_scarlet_forest"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_thrash_machine"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_vs_lancer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_vs_susie"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_card_castle"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_rouxls_kaard"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_hip_shop"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_chaos_king"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_the_circus"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_the_world_revolving"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_the_holy"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_your_power"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_a_town_called_hometown"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_you_can_always_come_home"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_dont_forget"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_faint_glow"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_girl_next_door"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_my_castle_town"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_queen"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_a_cybers_world"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_berdly"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_smart_race"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_welcome_to_the_city"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_spamton"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_nows_your_chance_to_be_a"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_pandora_palace"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_acid_tunnel_of_love"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_its_pronounced_rules"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_lost_girl"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_attack_of_the_killer_queen"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_knock_you_down"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_the_dark_truth"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_big_shot"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_dialtone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_sans"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_until_next_time"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_flashback_excerpt"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_feature_presentation"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_and_now_for_todays_sponsors"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_mike_the_board_please"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_sandy_board"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_adventure_board"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_quiz"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_ruder_buster"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_physical_challenge"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_welcome_to_the_green_room"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_paradise_paradise"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_sound_check"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_raise_up_your_bat"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_glowing_snow"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_tv_world"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_its_tv_time"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_hall_of_fame"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_black_knife"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_glaceir"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_burning_eyes"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_old_wooden_rafters"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_another_day_in_hometown"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_castle_funk"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_gingerbreak_house"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_the_distance_between_two"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_atrium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_dark_sanctuary"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_from_now_on"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_gyaa_ha_ha"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_fireplace"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_a_dark_zone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_wise_words"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_piano_that_may_not_be_played_that_well"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_hammer_of_justice"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_12am"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_the_second_sanctuary"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_ripple"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_13am"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_the_third_sanctuary"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_dark_place"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_crumbling_tower"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_spawn"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_guardian"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_need_a_hand"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_the_place_where_it_rained"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_the_ol_jitterbug"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_neverending_night"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_with_hope_crossed_on_our_hearts"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_catswing"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_air_waves"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_inappropriate_recycling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_pirate_dojo"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_4rd_sanctuary"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_festival"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_i_guess_im_in_love"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_your_dads_best_friend"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_garden_of_hopes_and_dreams"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_rakuichi_buster"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_the_diner_song_of_best_friends"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_quiet_glade"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_who_might_you_be"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_petal_dance"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_sunset_of_seven_suns"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_sunset_of_7_suns"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_shop_3"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_violet_tactics"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_flower_foyer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_flower_castle"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_thousand_cafe_zukan"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_pink"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_cutie_mew_mew_magic"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_running_sky"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_flower_man"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_that_day"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_dreamwatchers"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_weak_flowers"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_walking_home"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_field_of_hopes_and_dreams_from_deltarune_piano_collections_vol_1_credits_version"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deltarunemusicdiscs:disc_egg"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    }
+  ],
+  "random_sequence": "deltarunemusicdiscs:prophecy_tree_chest"
+}

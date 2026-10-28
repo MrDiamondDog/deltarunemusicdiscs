@@ -38,13 +38,14 @@ There are a subset of files it cannot fetch, as they do not exist in the game's 
 > If you use a different audio processing software, it should be about the same process.
 
 Here are the instructions for those files:
-- Ripple: This song is in a million pieces in the game files, so I downloaded it from Spotify. Use whatever method you see fit.
+- Ripple: This song is in a million pieces in the game files, so I downloaded it from Spotify or Bandcamp.
 - Garden of Hopes and Dreams: In two pieces in the game files, you need to combine them yourself.
   - Open an audio processing software such as Audacity and place `field_of_hopes_insaneintherain_intro.ogg` in front of `field_of_hopes_insaneintherain_loop.ogg`.
   - Make sure you export it correctly as described above.
 - The Sunset of 7 Suns: This is the early version of Sunset of Seven Suns that Toby posted on his Twitter/Bluesky.
   - You can download it from the [DELTARUNE Wiki](https://deltarune.wiki/images/The_Sunset_of_7_Suns_music.mp3?cb=4j9b8f&h=thumb.php&f=The_Sunset_of_7_Suns_music.mp3).
   - Make sure you follow the steps above to make it the correct format.
+- Raise up your Bat: Has a weird section in the middle that isn't on the soundtrack that doesn't sound good. Download from Bandcamp or Spotify.
 
 After you've added all of these songs, the mod should be ready!
 
@@ -65,6 +66,7 @@ To add a song (or sound effect or whatever), do the following:
     - Chapter is the chapter the song comes from! Use the first chapter it appears in if it's in multiple.
       - If a chapter number isn't applicable for one reason or another, use 0.
   - Please keep the entries grouped by chapter, and sorted by placement in the soundtrack!
+    - (if it doesn't have a soundtrack placement, put it at the end!)
 - Place the song in `src/main/resources/assets/deltarunemusicdiscs/sounds/records`, following all the steps above.
 - Run the `runData` Gradle task.
 - If this runs without error, you are done!

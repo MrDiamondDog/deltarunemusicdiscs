@@ -1,6 +1,7 @@
 package dev.drewrat.deltarunemusicdiscs;
 
 import dev.drewrat.deltarunemusicdiscs.discgen.MusicDiscs;
+import net.minecraft.world.item.ItemStack;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -37,6 +38,10 @@ public class DeltaruneMusicDiscs {
                 output.accept(ModItems.PROPHECY_LEAVES_RED_ITEM.get());
                 output.accept(ModItems.PROPHECY_LEAVES_PURPLE_ITEM.get());
                 output.accept(ModItems.PROPHECY_LEAVES_MAGENTA_ITEM.get());
+
+                output.accept(ItemStack.EMPTY);
+                output.accept(ItemStack.EMPTY);
+                output.accept(ItemStack.EMPTY);
 
                 for (var disc : MusicDiscs.musicDiscs) {
                     output.accept(disc.getItem());

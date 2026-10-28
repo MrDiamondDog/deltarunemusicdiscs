@@ -8,6 +8,7 @@ import net.minecraft.core.HolderLookup;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.data.PackOutput;
 import net.minecraft.data.loot.LootTableProvider;
+import net.minecraft.world.level.storage.loot.parameters.LootContextParamSet;
 import net.minecraft.world.level.storage.loot.parameters.LootContextParamSets;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.neoforge.common.data.BlockTagsProvider;
@@ -27,7 +28,10 @@ public class DataGenerators {
         ExistingFileHelper existingFileHelper = event.getExistingFileHelper();
 
         generator.addProvider(event.includeServer(), new LootTableProvider(packOutput, Collections.emptySet(),
-                List.of(new LootTableProvider.SubProviderEntry(ModLootTableProvider::new, LootContextParamSets.BLOCK)), lookupProvider));
+                List.of(
+                        new LootTableProvider.SubProviderEntry(ModLootTableProvider::new, LootContextParamSets.BLOCK),
+                        new LootTableProvider.SubProviderEntry(ProphecyTreeLootTableSubProvider::new, LootContextParamSets.CHEST)
+                ), lookupProvider));
 
         BlockTagsProvider blockTagsProvider = new ModBlockTagProvider(packOutput, lookupProvider);
         generator.addProvider(event.includeServer(), blockTagsProvider);

@@ -39,10 +39,6 @@ public class DeltaruneMusicDiscs {
                 output.accept(ModItems.PROPHECY_LEAVES_PURPLE_ITEM.get());
                 output.accept(ModItems.PROPHECY_LEAVES_MAGENTA_ITEM.get());
 
-                output.accept(ItemStack.EMPTY);
-                output.accept(ItemStack.EMPTY);
-                output.accept(ItemStack.EMPTY);
-
                 for (var disc : MusicDiscs.musicDiscs) {
                     output.accept(disc.getItem());
                 }

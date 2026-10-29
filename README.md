@@ -24,8 +24,8 @@ To pull the music, there is a `fetch_songs.js` Node.js script that reads the `so
 > The script requires ffmpeg, as it needs to convert all the files from stereo to mono audio. 
 > Make sure it is installed on your PATH.
 
-To use the script, simply run `node fetch_songs.js --deltarune_path full/path/to/your/DELTARUNE/`
-It will pull all the files it can. Look through the logs to make sure they are all successful.
+To use the script, simply run `node fetch_songs.js --deltarune_path full/path/to/your/DELTARUNE/ [--remove]`
+It will pull all the files it can. Look through the logs to make sure they are all successful. (`--remove` removes songs instead of skipping them if they exist)
 
 All files are placed in `src/main/resources/assets/deltarunemusicdiscs/sounds/records`.
 
